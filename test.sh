@@ -4,3 +4,5 @@
 
 [ -e $0 ] && printf "I exist therefore I print\n"
 
+
+printf "Awesome!\n"
